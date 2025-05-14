@@ -4,7 +4,7 @@
 🚀 Passionate about clean code and modern architecture
 
 ## 📊 GitHub Stats
-![Trọng's GitHub stats](https://github-readme-stats.vercel.app/api?username=trongnguyen&show_icons=true&theme=radical)
+![Trọng's GitHub stats](https://github-readme-stats.vercel.app/api?username=trongnguyen3114&show_icons=true&theme=radical)
 
 ## 🔗 Connect with me
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/nguyen.trong.353207)

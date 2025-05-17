@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Trọng Nguyễn
-🌱 I'm working on a perfume e-commerce site  
+🌱 I'm a student at a university and trying to learn code as wel
 💻 Tech Stack: `.NET`, `Next.js`, `TypeScript`, `Node.js`,`React JS`, 
 🚀 Passionate about clean code and modern architecture
 
